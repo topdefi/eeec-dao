@@ -1,0 +1,32 @@
+{
+  "network": "mainnet",
+  "treasury": {
+    "address": "0x0e9421f7F3A2a7402F2967aE05ff7E5f64547F46",
+    "startBlock": 20760911
+  },
+  "staking": {
+    "address": "0xe9377af0b592EeC45beF46CA9f076197947D04bD",
+    "startBlock": 20760377
+  },
+  "stakingHelper": {
+    "address": "0xa81edf051Bc50efF592B6Cd973d125d37aF2B36A",
+    "startBlock": 20760430
+  },
+  "eeecEthLPBond": {
+    "address": "0x8949480f3758CF211fB0284a12840dF7419B704d",
+    "startBlock": 20761343
+  },
+  "wETHBond": {
+    "address": "0x8aFBe028E3E890Ec98968b675BD0D9F939FB2ba7",
+    "startBlock": 20761448
+  },
+  "wETHBondV2": {
+    "address": "0x8aFBe028E3E890Ec98968b675BD0D9F939FB2ba7",
+    "startBlock": 20761448
+  },
+  "sEEEC": {
+    "address": "0xb9eAD7b55a4ed6B4DBb3867af334A506F9F9D42E",
+    "startBlock": 20760050
+  }
+}
+
